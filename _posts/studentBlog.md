@@ -3,7 +3,7 @@ layout: post
 title:  "Python as a tool to visualize SQL Data"
 author: Nory Arroyo
 description: Instructions on how to utilize Python to look at SQL Data
-image:
+image: '/assets/images/blogimages/figs-10-01/linearcars.png'
 ---
 
 # Why use SQL and Python? 
